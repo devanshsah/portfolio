@@ -1,2 +1,2 @@
 # portfolio
-This is Devansh's portflio repo
+This is Devansh's Portfolio Repo
